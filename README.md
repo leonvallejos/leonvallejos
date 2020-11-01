@@ -6,7 +6,7 @@ Co-Founder of [**@soyHenry**](https://www.soyhenry.com/), an online CS training 
 
 Previously I co-founded the [first coding Bootcamp in Latam](https://plataforma5.la/).
 
-:mailbox: I would love to talk anything related with Education and Technology, feel free to reach out at atralice@gmail.com
+:mailbox: I would love to talk anything related with Education and Technology, feel free to reach out at dev.leonvallejos@gmail.com
 
 - [Linkedin](https://www.linkedin.com/in/antoniotralice/)
 - [Twitter](https://twitter.com/atralice)
