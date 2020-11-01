@@ -12,6 +12,10 @@ Previously I co-founded the [first coding Bootcamp in Latam](https://plataforma5
 - [Twitter](https://twitter.com/atralice)
 - [Personal Website](https://fotografia.tonitralice.com.ar/)
 
-Proyectos:
+Open Source:
+
+Projects:
 
 Courses:
+
+
