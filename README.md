@@ -4,8 +4,8 @@
 
 I'm a Fullstack Developer at [EasyPost](https://www.easypost.com) and co-founder at [NCR4](https://ncr4.com). I'm an open source fanatic and love getting involved in the community. I'm a lover of Bash, Python, Node, PHP, Golang, Docker, and building cool stuff.
 
-[![GitHub](https://img.shields.io/badge/GitHub-leonvallejos-black)](https://github.com/Justintime50)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-justin--hammond-blue)](https://www.linkedin.com/in/leonvallejos/)
+[![GitHub](https://img.shields.io/badge/GitHub-leonvallejos-black)](https://github.com/leonvallejos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leonvallejos-blue)](https://www.linkedin.com/in/leonvallejos/)
 [![Facebook](https://img.shields.io/badge/YouTube-JustinHammond-red)](https://youtube.com/c/JustinHammond)
 [![Twitter](https://img.shields.io/badge/Stack&nbsp;Overflow-justin--hammond-orange)](https://stackoverflow.com/users/6064135/justin-hammond?tab=profile)
 
