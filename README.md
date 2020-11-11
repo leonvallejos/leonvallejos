@@ -15,5 +15,5 @@ I am passionate about new, innovative technologies. Programming video games sinc
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonvallejos&&show_icons=true)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonvallejos&&show_icons=true)
 
