@@ -6,8 +6,8 @@ I'm a Fullstack Developer trainee and co-founder at [NCR4](https://ncr4.com). I'
 
 [![GitHub](https://img.shields.io/badge/GitHub-leonvallejos-black)](https://github.com/leonvallejos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leonvallejos-blue)](https://www.linkedin.com/in/leonvallejos/)
-[![Facebook](https://img.shields.io/badge/Facebook-dev.leonvallejos-red)](https://www.facebook.com/dev.leonvallejos/)
-[![Twitter](https://img.shields.io/badge/Stack&nbsp;Overflow-justin--hammond-orange)](https://stackoverflow.com/users/6064135/justin-hammond?tab=profile)
+[![Facebook](https://img.shields.io/badge/Facebook-dev.leonvallejos-blue)](https://www.facebook.com/dev.leonvallejos/)
+[![Twitter](https://img.shields.io/badge/Twitter-devleonvallejos-blue)](https://twitter.com/devleonvallejos/)
 
 ## About Me
 
@@ -15,5 +15,5 @@ I am passionate about new, innovative technologies. Programming video games sinc
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonvallejos&&show_icons=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonvallejos&&show_icons=true)]
 
