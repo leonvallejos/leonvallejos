@@ -1,8 +1,8 @@
-# Hey, I'm Justin Hammond 👋
+# Hey, I'm León Vallejos 👋
 
-### Entrepreneur, Software Engineer, & IT Professional
+### Entrepreneur, Fullstack Developer, & IT Professional
 
-I'm a Front-end Developer at [EasyPost](https://www.easypost.com) and co-founder at [NCR4](https://ncr4.com). I'm an open source fanatic and love getting involved in the community. I'm a lover of Bash, Python, Node, PHP, Golang, Docker, and building cool stuff.
+I'm a Fullstack Developer at [EasyPost](https://www.easypost.com) and co-founder at [NCR4](https://ncr4.com). I'm an open source fanatic and love getting involved in the community. I'm a lover of Bash, Python, Node, PHP, Golang, Docker, and building cool stuff.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Justintime50-black)](https://github.com/Justintime50)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justin--hammond-blue)](https://www.linkedin.com/in/leonvallejos/)
@@ -15,5 +15,5 @@ I am passionate about new, innovative technologies. Programming video games sinc
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonvallejos&&show_icons=true)](https://justinpaulhammond.com)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonvallejos&&show_icons=true)]
 
