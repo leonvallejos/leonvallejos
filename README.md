@@ -11,7 +11,7 @@ I'm a Fullstack Developer trainee and co-founder at [NCR4](https://ncr4.com). I'
 
 ## About Me
 
-I am passionate about new, innovative technologies. Programming video games since the age of 12, websites at the age of 14, and starting Tuneup Technology (an IT consulting and repair business) at 16, I have years of experience in technology. I co-founded NCR4 (a web design and hosting company) and played a major role in the creation of Nozani (an ecommerce ageny) in my early 20's. I have been involved with multiple startups in both leadership and technology capacities.
+I am passionate about new and innovative technologies. My main source of learning is reading. Since I was 15 years old I was introduced to programming together with hacking c ++ / c # in games, then when I was 17 I got directly involved with the basics of programming and web application development. Today I aim my career in a study plan oriented to Fullstack Developer, in this way to be able to face any type of development and demonstrate my adaptation capabilities.
 
 ## GitHub Stats
 
