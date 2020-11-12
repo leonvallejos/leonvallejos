@@ -3,7 +3,7 @@
 ### Proactive, Fullstack Developer trainee, & IT Enthusiastic.
 
 Full Stack Developer trainee Proactive and enthusiastic about IT.
-Lover of C #, sql, Javascript.Hby hacking on Apple-bypass iCloud and jailbreak platforms always build cool stuff.
+Lover of C #, sql, Javascript.Hobby hacking on Apple-bypass iCloud and jailbreak platforms always build cool stuff.
 
 [![GitHub](https://img.shields.io/badge/GitHub-leonvallejos-black)](https://github.com/leonvallejos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leonvallejos-blue)](https://www.linkedin.com/in/leonvallejos/)
