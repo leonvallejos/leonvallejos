@@ -2,7 +2,8 @@
 
 ### Proactive, Fullstack Developer trainee, & IT Enthusiastic.
 
-I'm a Fullstack Developer trainee and co-founder at [NCR4](https://ncr4.com). I'm an open source fanatic and love getting involved in the community. I'm a lover of Bash, Python, Node, PHP, Golang, Docker, and building cool stuff.
+Full Stack Developer trainee Proactive and enthusiastic about IT.
+Lover of C #, sql, Javascript.Hby hacking on Apple-bypass iCloud and jailbreak platforms always build cool stuff.
 
 [![GitHub](https://img.shields.io/badge/GitHub-leonvallejos-black)](https://github.com/leonvallejos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leonvallejos-blue)](https://www.linkedin.com/in/leonvallejos/)
