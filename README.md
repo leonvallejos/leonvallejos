@@ -6,7 +6,7 @@ Full Stack Developer trainee Proactive and enthusiastic about IT.
 Lover of C #, sql, Javascript. Hobby hacking on Apple-bypass iCloud and jailbreak platforms always build cool stuff.
 
 [![GitHub](https://img.shields.io/badge/GitHub-leonvallejos-black)](https://github.com/leonvallejos)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-leonvallejos-blue-light)](https://www.linkedin.com/in/leonvallejos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leonvallejos-blue)](https://www.linkedin.com/in/leonvallejos/)
 [![Facebook](https://img.shields.io/badge/Facebook-dev.leonvallejos-blue)](https://www.facebook.com/dev.leonvallejos/)
 [![Twitter](https://img.shields.io/badge/Twitter-devleonvallejos-blue)](https://twitter.com/devleonvallejos/)
 
