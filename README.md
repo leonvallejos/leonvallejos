@@ -1,6 +1,6 @@
 # Hey, I'm León Vallejos 👋
 
-### Proactive, Fullstack Developer trainee, & IT Enthusiastic.
+### Proactive, Fullstack Developer Jr, & IT Enthusiastic.
 
 Full Stack Developer trainee Proactive and enthusiastic about IT.
 Lover of C #, sql, Javascript. Hobby hacking on Apple-bypass iCloud and jailbreak platforms always build cool stuff.
