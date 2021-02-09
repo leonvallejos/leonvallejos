@@ -7,7 +7,7 @@ Hobby hacking on Apple-bypass iCloud and jailbreak platforms always build cool s
 
 [![GitHub](https://img.shields.io/badge/GitHub-leonvallejos-black)](https://github.com/leonvallejos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leonvallejos-blue)](https://www.linkedin.com/in/leonvallejos/)
-[![Portfolio](https://img.shields.io/badge/LinkedIn-leonvallejos-black)](https://leonvallejos.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-leonvallejos-black)](https://leonvallejos.tech/)
 [![Facebook](https://img.shields.io/badge/Facebook-dev.leonvallejos-blue)](https://www.facebook.com/dev.leonvallejos/)
 [![Twitter](https://img.shields.io/badge/Twitter-devleonvallejos-blue)](https://twitter.com/devleonvallejos/)
 
