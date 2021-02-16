@@ -1,8 +1,8 @@
 # Hey, I'm León Vallejos 👋
 
-### Proactive, Fullstack Developer, & IT Enthusiastic.
+### Proactive & IT Enthusiastic.
 
-Full Stack Developer, Proactive and enthusiastic about IT.
+Proactive and enthusiastic about IT.
 Hobby hacking on Apple-bypass iCloud and jailbreak platforms always build cool stuff.
 
 [![GitHub](https://img.shields.io/badge/GitHub-leonvallejos-black)](https://github.com/leonvallejos)
